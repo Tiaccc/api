@@ -20,7 +20,7 @@
 <style>
     img{
         position: absolute;
-        right: 35%;
+        right: 25%;
     }
     h1{
         color: red;
