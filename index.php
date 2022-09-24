@@ -7,14 +7,14 @@
     <title>Aplicações informáticas</title>
 </head>
 <body>
-    <h1>Aplicações informáticas 22/23</h1>
+    <h1>Aplicações informáticas 22/23 (Tiago Fernandes e joão Tomás)</h1>
     
    
 
     <img src="image.png" alt="">
 
     <a href="https://www.colegioalbergaria.pt/">Colégio de Albergaria</a>
-    <a> Tiago Fernandes e joão Tomás</a>
+    
 </body>
 
 <style>
