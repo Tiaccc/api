@@ -7,7 +7,7 @@
     <title>Aplicações informáticas</title>
 </head>
 <body>
-    <h1>Aplicações informáticas 22/23 (Tiago Fernandes e joão Tomás)</h1>
+    <h1>Aplicações informáticas 22/23 (Tiago Fernandes e João Tomás)</h1>
     
    
 
