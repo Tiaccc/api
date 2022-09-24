@@ -29,7 +29,7 @@
     a{
     position: absolute;
     top: 85%;
-    right: 50%;
+    right: 10%;
     text-decoration: none;
     }
 </style>
